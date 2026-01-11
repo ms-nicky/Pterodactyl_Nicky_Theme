@@ -2,7 +2,7 @@
 
 Install script:
 ```sh
-bash <(curl https://raw.githubusercontent.com//ms-nicky/Pterodactyl_Nicky_Theme/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com//ms-nicky/Pterodactyl_Nicky_Theme/main/install.sh)
 ```
 
 ---
